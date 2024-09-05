@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**KousikCodes/KousikCodes** is a ✨ _special_ ✨ repository.
+**KousikCodes** is a ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently Pursuing my Master's in Applied Computer Science at NorthWest Missouri State University
 - 🌱 I’m currently learning Web-Apps course under Professor Charles Hoot.
